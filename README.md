@@ -4,36 +4,6 @@
 
 | 集数 | 标题 | 播放链接 |
 |------|------|----------|
-| 1 | 阴阳行者篇 第1集 要来看看月亮吗？ | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/002.阴阳行者篇 第1集 要来看看月亮吗？（新专辑上线，欢迎收听！）.m4a) |
-| 2 | 阴阳行者篇 第2集 涂月 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/003.阴阳行者篇 第2集 涂月（欢迎订阅+五星好评~）.m4a) |
-| 3 | 阴阳行者篇 第3集 金鳞试炼 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/004.阴阳行者篇 第3集 金鳞试炼（请多多投喂月票吧~）.m4a) |
-| 4 | 阴阳行者篇 第4集 神之推手，命运骰子 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/005.阴阳行者篇 第4集 神之推手，命运骰子（欢迎多多留言互动）.m4a) |
-| 5 | 阴阳行者篇 第5集 神王永生，创世而终 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/006.阴阳行者篇 第5集 神王永生，创世而终（欢迎多多分享~）.m4a) |
-| 6 | 阴阳行者篇 第6集 好兄弟 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/007.阴阳行者篇 第6集 好兄弟.m4a) |
-| 7 | 阴阳行者篇 第7集 神识觉醒 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/008.阴阳行者篇 第7集 神识觉醒.m4a) |
-| 8 | 阴阳行者篇 第8集 神秘刺客 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/009.阴阳行者篇 第8集 神秘刺客.m4a) |
-| 9 | 阴阳行者篇 第9集 四大家族 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/010.阴阳行者篇 第9集 四大家族.m4a) |
-| 10 | 阴阳行者篇 第10集 月黑风高夜 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/011.阴阳行者篇 第10集 月黑风高夜.m4a) |
-| 11 | 阴阳行者篇 第11集 殷勤大使狐于修 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/012.阴阳行者篇 第11集 殷勤大使狐于修.m4a) |
-| 12 | 阴阳行者篇 第12集 梦游 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/013.阴阳行者篇 第12集 梦游.m4a) |
-| 13 | 阴阳行者篇 第13集 高手狐拾一 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/014.阴阳行者篇 第13集 高手狐拾一.m4a) |
-| 14 | 阴阳行者篇 第14集 招安 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/015.阴阳行者篇 第14集 招安.m4a) |
-| 15 | 阴阳行者篇 第15集 宵烛 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/016.阴阳行者篇 第15集 宵烛.m4a) |
-| 16 | 阴阳行者篇 第16集 神明 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/017.阴阳行者篇 第16集 神明.m4a) |
-| 17 | 阴阳行者篇 第17集 突变 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/018.阴阳行者篇 第17集 突变.m4a) |
-| 18 | 阴阳行者篇 第18集 点将台 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/019.阴阳行者篇 第18集 点将台.m4a) |
-| 19 | 阴阳行者篇 第19集 鸫小队 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/020.阴阳行者篇 第19集 鸫小队.m4a) |
-| 20 | 阴阳行者篇 第20集 精兵强将 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/021.阴阳行者篇 第20集 精兵强将.m4a) |
-| 21 | 阴阳行者篇 第21集 三人小队 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/022.阴阳行者篇 第21集 三人小队.m4a) |
-| 22 | 阴阳行者篇 第22集 红雾 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/023.阴阳行者篇 第22集 红雾.m4a) |
-| 23 | 阴阳行者篇 第23集 狸家家主 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/024.阴阳行者篇 第23集 狸家家主.m4a) |
-| 24 | 阴阳行者篇 第24集 高手高高手 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/025.阴阳行者篇 第24集 高手高高手.m4a) |
-| 25 | 阴阳行者篇 第25集 尘王与夔王 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/026.阴阳行者篇 第25集 尘王与夔王.m4a) |
-| 26 | 阴阳行者篇 第26集 涂月再现 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/027.阴阳行者篇 第26集 涂月再现.m4a) |
-| 27 | 阴阳行者篇 第27集 回家之路 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/028.阴阳行者篇 第27集 回家之路.m4a) |
-| 28 | 阴阳行者篇 第28集 修炼者 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/029.阴阳行者篇 第28集 修炼者.m4a) |
-| 29 | 第29集 自然刻印 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/第29集 自然刻印.m4a) |
-| 30 | 第30集 摘星者 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/第30集 摘星者.m4a) |
 | 31 | 第31集 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/第31集.m4a) |
 | 32 | 第32集 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/第32集.m4a) |
 | 33 | 第33集 | [点击播放](https://github.com/qyxay/m4a/raw/main/音频1-62/第33集.m4a) |
